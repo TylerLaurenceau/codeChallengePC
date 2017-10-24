@@ -135,7 +135,8 @@ var feedData = [
     "Model": "Civic",
     "DealerName": "Prime Honda Boston",
     "PhoneNumber": "(877) 409-1104",
-    "PhotoUrl": "https://cdn.purecars.com/display-content/stock-photos/Honda/2017/Civic Coupe/FD_300x600.jpg",
+    "PhotoUrl": "http://st.motortrend.com/uploads/sites/5/2016/10/2017-Honda-Civic-coupe-front-three-quarter-in-motion-02.jpg",
+//https://cdn.purecars.com/display-content/stock-photos/Honda/2017/Civic Coupe/FD_300x600.jpg
     "PhotoOrientation": "L",
     "PhotoParams": "160x600,400x300,63,134,88,261|300x250,333x250,52,111,73,217|300x600,400x300,63,134,88,261|320x50,160x120,25,53,35,104|728x90,364x273,57,122,80,237",
     "DealerLogoUrl": "https://cdn.purecars.com/dealer-logo-cache/bc1315dd25f0446d8dbed6c7f5cf2efb.png",
@@ -177,7 +178,8 @@ var feedData = [
     "Model": "Accord",
     "DealerName": "Prime Honda Boston",
     "PhoneNumber": "(877) 409-1104",
-    "PhotoUrl": "https://cdn.purecars.com/display-content/stock-photos/Honda/2017/AccordCoupe/FD_300x600.jpg",
+    "PhotoUrl": "https://images.autotrader.com/scaler/620/420/cms/images/cars/honda/accord/2017/2017hondaaccord/261908.jpg",
+//      https://cdn.purecars.com/display-content/stock-photos/Honda/2017/AccordCoupe/FD_300x600.jpg
     "PhotoOrientation": "L",
     "PhotoParams": "160x600,377x300,94,118,87,184|300x250,315x250,78,98,72,154|300x600,377x300,94,118,87,184|320x50,160x127,40,50,37,78|728x90,364x289,91,114,84,178",
     "DealerLogoUrl": "https://cdn.purecars.com/dealer-logo-cache/bc1315dd25f0446d8dbed6c7f5cf2efb.png",
