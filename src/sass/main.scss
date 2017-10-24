@@ -2,11 +2,16 @@
 font-family: 'Work Sans', sans-serif;
 }
 
+body{
+    -webkit-user-select: none;
+     -moz-user-select: -moz-none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
 ::-webkit-scrollbar {
     width: 0px;
-    /* remove scrollbar space */
     background: transparent;
-    /* just make scrollbar invisible */
 }
 
 .hidden {
