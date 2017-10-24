@@ -15,11 +15,11 @@ function checkRequiredText(){
         if (feedData[i].OemRequiresVin === "True") {
             $(".required").append(` - `)
         }
+    }
 
         if (feedData[i].OemRequiresVin !== "") {
             $(".required").append(`Vin# ${feedData[i].LowestPriceVin}`);
         }
     }
-}
 
 export { checkRequiredText };
